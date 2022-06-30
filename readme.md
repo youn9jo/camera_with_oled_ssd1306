@@ -19,3 +19,5 @@ pip install opencv-python
 pip install picamera2
 
 sudo python app.py
+
+![preview](https://github.com/youn9jo/camera_with_oled_ssd1306/blob/master/led.png)
